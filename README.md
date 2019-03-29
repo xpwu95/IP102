@@ -5,7 +5,7 @@ IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition
 [Google]()
 
 ### Additional Information
-If you find IP102 helpful, please cite it as
+If you find the IP102 helpful, please cite it as
 ```
 @inproceedings{Wu2019Insect,
   title={IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition},
