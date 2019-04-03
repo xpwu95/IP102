@@ -16,4 +16,4 @@ If you find the IP102 helpful, please cite it as
 }
 ```
 
-ATTN1: This dataset is free for academic usage. For other purposes, please contact Xiaoping Wu (xpwu95@163.com).
+ATTN: This dataset is free for academic usage. For other purposes, please contact Xiaoping Wu (xpwu95@163.com).
