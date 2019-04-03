@@ -17,7 +17,7 @@ IP102
 |	├── test.txt
 ├──	Detection
 |	├── VOC2007
-|	│   ├── Annotations
+|	│   ├── Annotations.tar
 |	│   ├── ImageSets/Main
 |	│   │   ├── trainval.txt
 |	│   │   ├── test.txt
