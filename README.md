@@ -1,5 +1,4 @@
-# IP102
-IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition
+# IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition
 
 This work was accepted by CVPR 2019 as a **oral** paper.
 
