@@ -1,6 +1,6 @@
 ## IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition
 
-This work was accepted by CVPR 2019 as a $\color{red}{oral}$ paper.
+This work was accepted by CVPR 2019 as a **oral** paper.
 
 [Baidu]()
 [Google]()
