@@ -2,8 +2,32 @@
 
 This work was accepted by CVPR 2019 as a **oral** paper.
 
-[Baidu]()
-[Google]()
+The IP102 datset contains more than $75,000$ images belongs to $102$ categories. A natural long-tailed distribution presents on it. In addition, we annotate $19,000$ images with bounding boxes for object detection. The IP102 has a hierarchical taxonomy and the insect pests which mainly affect one specific agricultural product are grouped into the same upper-level category.
+
+### File Structure
+
+The IP102 dataset can be downloaded from [Baidu]() or [Google]().
+The folders are arranged like this:
+```
+IP102
+├──	Images
+|	├── reid
+|	├── examples
+|	│   ├── data
+|	│   │   ├── sd-198
+|	│   │   │   ├── raw
+|	│   │   │   │   ├── images
+|	│   │   │   │   ├── train.txt
+|	│   │   │   │   ├── val.txt
+|	│   │   ├── sd-260
+|	│   │   ├── mit67
+|	│   │   ├── caltech101
+|	│   │   ├── minist
+|	│   │   ├── mlc
+├──	Annotations
+```
+
+
 
 ### Additional Information
 If you find the IP102 helpful, please cite it as
