@@ -6,7 +6,7 @@ The IP102 datset contains more than $75,000$ images belongs to $102$ categories.
 
 ### File Structure
 
-The IP102 dataset can be downloaded from [Baidu]() or [Google]().
+The IP102 dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1I5NKaa7B8lmB9bqsz4tGZA) (pw:meg3) or [Google]().
 The folders are arranged like this:
 ```
 IP102
