@@ -10,21 +10,18 @@ The IP102 dataset can be downloaded from [Baidu]() or [Google]().
 The folders are arranged like this:
 ```
 IP102
-├──	Images
-|	├── reid
-|	├── examples
-|	│   ├── data
-|	│   │   ├── sd-198
-|	│   │   │   ├── raw
-|	│   │   │   │   ├── images
-|	│   │   │   │   ├── train.txt
-|	│   │   │   │   ├── val.txt
-|	│   │   ├── sd-260
-|	│   │   ├── mit67
-|	│   │   ├── caltech101
-|	│   │   ├── minist
-|	│   │   ├── mlc
-├──	Annotations
+├──	Classification
+|	├── Images.tar
+|	├── train.txt
+|	├── val.txt
+|	├── test.txt
+├──	Detection
+|	├── VOC2007
+|	│   ├── Annotations
+|	│   ├── ImageSets/Main
+|	│   │   ├── trainval.txt
+|	│   │   ├── test.txt
+|	│   ├── JPEGImages.tar
 ```
 
 
