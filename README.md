@@ -10,12 +10,12 @@ The IP102 dataset can be downloaded from [Baidu]() or [Google]().
 The folders are arranged like this:
 ```
 IP102
-├──	Classification
+├──Classification
 |	├── Images.tar
 |	├── train.txt
 |	├── val.txt
 |	├── test.txt
-├──	Detection
+├──Detection
 |	├── VOC2007
 |	│   ├── Annotations.tar
 |	│   ├── ImageSets/Main
