@@ -1,6 +1,6 @@
 ## IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition
 
-This work was accepted by CVPR 2019 as a **oral** paper.
+This work was accepted by CVPR 2019 as a **oral** [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.pdf).
 
 The IP102 datset contains more than $75,000$ images belongs to $102$ categories. A natural long-tailed distribution presents on it. In addition, we annotate $19,000$ images with bounding boxes for object detection. The IP102 has a hierarchical taxonomy and the insect pests which mainly affect one specific agricultural product are grouped into the same upper-level category.
 
