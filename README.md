@@ -24,7 +24,7 @@ IP102
 |	│   ├── JPEGImages.tar
 ```
 
-The index and name of each insect pest sub-class in the IP102 dataset can be found in [supplementary material](./supplements_cvpr19_ip102.pdf).
+The index and name of each insect pest sub-class in the IP102 dataset can be found in [supplementary material](./supplements_cvpr19_ip102.pdf) or [classes.txt](./classes.txt).
 
 
 ### Additional Information
