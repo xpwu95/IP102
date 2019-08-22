@@ -34,6 +34,7 @@ If you find the IP102 helpful, please cite it as
   title={IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition},
   author={Xiaoping Wu and Chi Zhan and Yukun Lai and Ming-Ming Cheng and Jufeng Yang},
   booktitle={IEEE CVPR},
+  pages={8787--8796},
   year={2019},
 }
 ```
