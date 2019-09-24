@@ -54,7 +54,7 @@
 54 odontothrips loti				
 55 Thrips							
 56 alfalfa seed chalcid 			
-57 alfalfa weevil					
+57 Pieris canidia					
 58 Apolygus lucorum				
 59 Aphidoidea						
 60 Viteus vitifoliae				
