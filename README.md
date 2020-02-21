@@ -2,28 +2,13 @@
 
 This [work](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.pdf) was accepted by CVPR 2019.
 
-The IP102 datset contains more than $75,000$ images belongs to $102$ categories. A natural long-tailed distribution presents on it. In addition, we annotate $19,000$ images with bounding boxes for object detection. The IP102 has a hierarchical taxonomy and the insect pests which mainly affect one specific agricultural product are grouped into the same upper-level category.
+The IP102 datset contains more than 75,000 images belongs to 102 categories. A natural long-tailed distribution presents on it. In addition, we annotate 19,000 images with bounding boxes for object detection. The IP102 has a hierarchical taxonomy and the insect pests which mainly affect one specific agricultural product are grouped into the same upper-level category.
 
-### File Structure
+### Data Download
 
-The folders are arranged like this:
-```
-IP102
-├──Classification
-|	├── Images.tar
-|	├── train.txt
-|	├── val.txt
-|	├── test.txt
-├──Detection
-|	├── VOC2007
-|	│   ├── Annotations.tar
-|	│   ├── ImageSets/Main
-|	│   │   ├── trainval.txt
-|	│   │   ├── test.txt
-|	│   ├── JPEGImages.tar
-```
+You can download the IP102 v1.1 through the [link](http://xiaopingwu.cn/assets/projects/ip102/Data_Download/Data_Download.html).
 
-The index and name of each insect pest sub-class in the IP102 dataset can be found in [supplementary material](./supplements_cvpr19_ip102.pdf) or [classes.txt](./classes.txt).
+The index and name of each insect pest sub-class in the IP102 dataset can be found in [classes.txt](./classes.txt).
 
 
 ### Additional Information
