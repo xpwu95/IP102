@@ -6,7 +6,7 @@ The IP102 datset contains more than 75,000 images belongs to 102 categories. A n
 
 ### Data Download
 
-You can download the IP102 v1.1 through the [link](http://xiaopingwu.cn/assets/projects/ip102/Data_Download/Data_Download.html).
+You can download the IP102 v1.1 through the [link](http://xiaopingwu.cn/assets/projects/ip102/Data_Download/Data_Download.html) or the [link] (https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo?usp=sharing).
 
 The index and name of each insect pest sub-class in the IP102 dataset can be found in [classes.txt](./classes.txt).
 
